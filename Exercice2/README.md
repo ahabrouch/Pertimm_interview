@@ -1,6 +1,6 @@
 # the solution for Node JS - Algo Exercise
 
-A mock interface of google home page
+The algorithm consists of finding the index of the zero to be replaced in order  to obtain the longest sequence of ones, given an array of zeros and ones as an argument.
 
 ## To run the main script of the algorithm (algorithm.js) you need to run run.js
 ```bash
